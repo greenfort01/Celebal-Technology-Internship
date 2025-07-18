@@ -1,4 +1,8 @@
 Celebal Technology Internship
+
+
+
+
 📌 Overview
 This repository documents my 8-week internship at Celebal Technology, where I successfully completed a structured learning program covering various technical domains. Each week included self-paced learning modules, hands-on assignments, and GitHub submissions to track my progress.
 
