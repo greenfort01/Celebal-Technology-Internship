@@ -51,12 +51,6 @@ This is a **Streamlit-based web application** that helps automate the resume scr
 - **Matplotlib** (Visualization)  
 - **PyPDF2, docx2txt** (Text extraction)  
 
-## Installation  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/resume-screening-tool.git
-   cd resume-screening-tool
 
 ## Streamlit Link
 https://resumescreeingranking-mwqykjwssxnuk3dej9znsx.streamlit.app/
