@@ -29,7 +29,6 @@ Through this internship, I strengthened my fundamentals in exploratory data anal
 
 
 
-#Streamlit Link
 
 
 # 📄 Resume Screening and Ranking Tool  
